@@ -21,11 +21,11 @@
       },
       {
         "package": "Files",
-        "repositoryURL": "https://github.com/johnsundell/files.git",
+        "repositoryURL": "https://github.com/bens4lsu/Files",
         "state": {
           "branch": null,
-          "revision": "d273b5b7025d386feef79ef6bad7de762e106eaf",
-          "version": "4.2.0"
+          "revision": "7caed6e75f6697fa6f6c9bbdedbc8557d15d1869",
+          "version": "0.9.1"
         }
       },
       {

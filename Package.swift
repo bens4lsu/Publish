@@ -28,8 +28,8 @@ let package = Package(
         ),
         .package(
             name: "Files",
-            url: "https://github.com/johnsundell/files.git",
-            from: "4.0.0"
+            url: "https://github.com/bens4lsu/Files",
+            from: "0.0.1"
         ),
         .package(
             name: "Codextended",
